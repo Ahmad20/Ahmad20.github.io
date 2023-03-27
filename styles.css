@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #35424a;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 1rem;
+}
+
+.transcripts {
+  background-color: white;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.all-summary {
+  background-color: white;
+  padding: 1rem;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+button {
+  background-color: #35424a;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+button:hover {
+  background-color: #2a3b42;
+}
+
+.summary-content,
+.all-summary-content {
+  padding-top: 0.5rem;
+}
